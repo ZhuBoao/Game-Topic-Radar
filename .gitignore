@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+.env.local
+server/data.json
+server/data.json.bak
+server/data.json.testbak
+server/runs.json
+server/logs/
+server/images
+server/tokens.json
+*.log
+_*.mjs
